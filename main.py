@@ -15,3 +15,5 @@ if response.status_code == 200:
     print(f"{joke['setup']} - {joke['punchline']}")
 else:
     print("Failed to retrieve a joke.")
+
+# https://github.com/skillacademyonwheels/1.-GettingStarted-with-API.git
